@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧭 Path2AgenticAI
+# 🤖 Path2AgenticAI
 
 ### My hands-on journey from zero to building Agentic AI systems — one concept at a time.
 
